@@ -1,0 +1,17 @@
+.container {
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.btn {
+    margin: 10px;
+    background-color: yellow;
+    color: #000;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+}
